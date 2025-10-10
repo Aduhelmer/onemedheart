@@ -6,7 +6,7 @@ description: Contact
 
 ![Handshake](/images/illustrations/handshake.png)
 
-# 商务合作：
+# 商务合作
 
 | 手机   | 137 0204 7936 |
 | 微信   | yixinyiyi-keji |
